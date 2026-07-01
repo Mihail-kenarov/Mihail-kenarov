@@ -17,3 +17,5 @@ It chats with a new lead, qualifies them against the firm's rules, books the cal
 
 #### Stack
 `Python` · `LangChain` · `MCP` · `Claude & OpenAI APIs` · `n8n` · `Make` · `TypeScript` · `React` · `Next.js` · `C#` · `Docker`
+
+📫 Reach me: kenarovm@gmail.com
