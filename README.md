@@ -2,7 +2,7 @@
 
 I build **AI agents and automations** - and put a clean, simple interface on top, so the result is a finished product instead of a pile of tools to babysit.
 
-- 🤖 Agents & automation with Python, LangChain, MCP, and the Claude / OpenAI APIs
+- 🤖 Agents & automation with Python, LangChain, MCP, Microsoft Agent Framework and the Claude / OpenAI APIs
 - 🎨 Front ends with React, Next.js, and TypeScript
 - 🔗 Low-code where it fits: n8n, Make
 - 🎓 Software Engineering student at Fontys (NL)
